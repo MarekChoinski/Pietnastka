@@ -7,5 +7,5 @@ Implementation of 15 puzzle in C++ using SFML library
 </p>
 
 ### Download
-You can download this game here:
+You can download this game here:</br>
 [Version 1.0.0](https://drive.google.com/file/d/0B2RhgeJoHeqjVkM3U08xNFZicmM/view?usp=sharing)

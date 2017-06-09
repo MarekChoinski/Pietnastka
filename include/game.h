@@ -28,9 +28,6 @@ class Game
         void move_tile(int direction);
 
 
-    protected:
-
-    private:
 };
 
 
